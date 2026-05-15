@@ -1,0 +1,86 @@
+Display
+	Amazon's 7” Paperwhite display technology with built-in light, 300 ppi, optimized font technology, 16-level gray scale.
+Size
+	5” x 7” x 0.3” (127.6 x 176.7 x 7.8 mm)
+Weight
+	7.4 oz (211g). Actual size and weight may vary by configuration and manufacturing process.
+System Requirements
+	None; fully wireless and doesn't require a computer to download content.
+On-Device Storage
+	16 GB; holds thousands of books.
+Cloud Storage
+	Free cloud storage for all Amazon content.
+Battery Life
+	A single charge lasts up to twelve (12) weeks, based on a half hour of reading per day with wireless off and the light setting at 13. Battery life may vary depending on use. Audible audiobook streaming over Bluetooth will reduce battery life.
+Charge Time
+	Fully charges in less than 2.5 hours with a 9W USB power adapter.
+Wi-Fi Connectivity
+	Supports 2.4 GHz and 5.0 GHz networks with support for WEP, WPA, WPA2, WPA3, and OWE security using password authentication or Wi-Fi Protected Setup (WPS). Does not support connecting to ad-hoc (or peer-to-peer) wifi networks.
+Accessibility Features
+	VoiceView screen reader, available over Bluetooth audio, provides spoken feedback allowing you to navigate your device and read books with text-to-speech (available in English only). Kindle Paperwhite also includes Dark Mode and the ability to adjust font size, font face, line spacing and margins. Learn more about Accessibility for Kindle.
+Content Formats Supported
+	Kindle Format 8 (AZW3), Kindle (AZW), TXT, PDF, unprotected MOBI, PRC natively; PDF, DOCX, DOC, HTML, EPUB, TXT, RTF, JPEG, GIF, PNG, BMP through conversion; Audible audio format (AAX). Learn more about supported file types for personal documents.
+Documentation
+	Learn more about Kindle devices with our Quick Start Guide and Kindle User Guide.
+Warranty and Service
+	1-year limited warranty and service included. Optional 1-year, 2-year or 3-year. Extended Warranty available for U.S customers sold separately. Use of Kindle is subject to the terms found here.
+Included in the Box
+	Kindle Paperwhite, USB-C charging cable and Quick Start Guide.
+Waterproofing
+	Waterproof (IPX8), tested to withstand immersion in 2 meters of fresh water for 60 minutes. Learn more about the waterproof Kindle Paperwhite.
+Available Colors
+	Black, Raspberry, and Jade
+Generation
+	Kindle Paperwhite (12th Generation) - 2024 release.
+Software Security Updates
+	Learn more about these software security updates. If you already own a Kindle, visit Manage Your Content and Devices for information specific to your device.
+Size
+	3.9” x 3.9” x 3.5” (100mm x 100mm x 89 mm)
+Weight
+	10.7 oz (304g) Actual size and weight may vary by manufacturing process
+Audio Bandwidth
+	62 Hz - 19 kHz (volume 6)
+Loudspeaker Driver Dimensions
+	1.6” full range driver
+Playback Channels
+	Mono
+Audio Signal Processing Technology
+	N/A
+Wifi connectivity
+	Dual-band Wi-Fi supports 802.11a/b/g/n/ac (2.4 and 5 GHz) networks. Does not support connecting to ad-hoc (or peer-to-peer) wifi networks.
+Amazon Sidewalk
+	Sidewalk uses Echo and Ring devices to securely keep other devices connected and help find lost items by reporting their approximate location to the owner. Sidewalk can enable supported devices to remain connected even when wifi is lost or the supported devices are outside the range of their home wifi. Sidewalk uses a small portion of your internet bandwidth and the approximate location of your devices to provide these benefits to you and your neighbors. Sidewalk is turned on for your device unless you have previously turned it off. You can turn off Sidewalk at any time.Learn more about Amazon Sidewalk.
+Smart Home Device Compatibility
+	WiFi, Bluetooth Low Energy Mesh, and Matter
+Bluetooth connectivity
+	Advanced Audio Distribution Profile (A2DP) support for audio streaming from your mobile device to Echo Dot or from Echo Dot to your Bluetooth speaker. Audio/Video Remote Control Profile (AVRCP) for voice control of connected mobile devices. Hands-free voice control is not supported for Mac OS X devices. Bluetooth speakers requiring PIN codes are not supported.
+eero Built-in
+	Your wifi network must use a compatible eero router and your Echo device must stay in range of a compatible eero device. You will need to link your eero and Amazon accounts and manage eero Built-in from the eero mobile application to use this feature. eero Built-in compatible Echo devices support up to 1,000 sq. ft. of additional coverage, speeds up to 100 Mbps, and 10 or fewer connected devices in the 5 GHz band. Actual performance can vary and certain eero, Echo, or Alexa features may be incompatible with eero Built-in. Learn more about eero Built-in performance, availability and compatibility. Use of eero and eero-related products and services, including eero Built-in, requires creation of an eero account and agreement to eero’s Terms of Service. Review eero’s Privacy Notice.
+System requirements
+	Echo Dot comes ready to connect to your wifi. The Alexa app is compatible with Fire OS, Android, and iOS devices and also accessible via your web browser. Supported operating systems. Certain skills and services may require subscription or other fees.
+Setup technology
+	Amazon Wi-Fi simple setup enables customers to connect smart devices to their wifi network in a few easy steps. Wi-Fi simple setup is another way Alexa is always getting smarter. Learn more about Wi-Fi simple setup.
+Warranty and service
+	90-day limited warranty and service. Optional 1-year, 2-year, and 3-year extended warranty available for U.S. customers sold separately. Use of Echo Dot is subject to these terms.
+Accessibility features
+	To enable features that personalize Alexa to your abilities, go to Settings → Accessibility in the Alexa App. 
+ • Adaptive Listening provides customers more time to finish speaking before Alexa responds. 
+ • Preferred Speaking Rate allows customers to control how fast or slow Alexa speaks. To enable, say “Alexa, speak slower” or “Alexa, speak faster.” 
+ • Request Sound will play an audible tone in addition to the visual indicator when you speak to Alexa. To enable, say “Alexa, turn on Start of Request Sound.” 
+ • Kindle Read Aloud will have Alexa read your Kindle books aloud. 
+ • Notify When Nearby will play notification sounds when you’re detected near your Echo device. 
+ • Alexa Accessibility features also include several other settings for customers with accessibility needs related to vision, hearing, mobility, and speech. 
+
+Included in the box
+	Echo Dot, glacier white power adapter (15W), and Quick Start Guide.
+Generation
+	Echo Dot (5th Gen) - 2022 release
+Privacy features
+	Wake word technology, streaming indicators, microphone off button, the ability to view and delete your voice recordings, and more. Visit the Alexa Privacy Hub to explore how Alexa and Echo devices are designed to protect your privacy.
+Language
+	Alexa speaks English and Spanish
+Alexa Skills & Features
+	Alexa makes your life easier, more meaningful, and more fun by letting you voice control your world. Alexa can help you get more out of the things you already love and discover new possibilities you've never imagined. Discover and learn what Alexa can do.
+Software Security Updates
+	Learn more about these software security updates. If you already own an Amazon Echo, visit Manage Your Content and Devices for information specific to your device.
+{"Product Dimensions": "‎9.4 x 3 x 1.2 inches", "Item Weight": "‎1.12 ounces", "Department": "‎Unisex", "Manufacturer": "‎Apple", "ASIN": "‎B0FQF9ZX7P", "Item model number": "‎MEU04LW/A", "Batteries": "‎1 Lithium Ion batteries required. (included)", "Date First Available": "‎September 8, 2025"}

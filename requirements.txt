@@ -1,0 +1,6 @@
+DrissionPage
+pandas
+SQLAlchemy
+pymysql
+requests
+openpyxl
